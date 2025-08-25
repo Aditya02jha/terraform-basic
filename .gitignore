@@ -1,0 +1,6 @@
+rsa-aws-key.pub
+rsa-aws-key
+.terraform.lock.hcl
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
